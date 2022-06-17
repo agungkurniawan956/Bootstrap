@@ -1,8 +1,17 @@
 .navbar{
   background-color: rgb(188, 247, 182);
 }
+.navbar-brand{
+  font-weight: bold;
+} 
 .btn-primary{
 background-color: aqua;
 border: 0;
 font-size: 16;
 }
+ .eskul{
+   background-color: rgb(215, 225, 255);
+ }
+ .badge{
+  font-size: larger;
+ }
